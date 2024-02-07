@@ -54,6 +54,10 @@ This repository is a collection of my Machine Learning (ML) projects aimed at ex
     <tr>
        <td>Graph Anomaly Detection</td>
        <td>An investigative method to detect communities and anomalies in a graph</td>
+    </tr>    
+    <tr>
+       <td>Stack Overflow Multiclass Classification</td>
+       <td>Stack Overflow text analysis and multiclass classification for post tags.</td>
     </tr> 
 		
   </tbody>
