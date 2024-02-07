@@ -50,6 +50,10 @@ This repository is a collection of my Machine Learning (ML) projects aimed at ex
     <tr>
        <td>Rock Paper Scissors Game</td>
        <td>Sovling the classic Rock Paper Scissor game using NN and Image Augmentation techniques</td>
+    </tr>      
+    <tr>
+       <td>Graph Anomaly Detection</td>
+       <td>An investigative method to detect communities and anomalies in a graph</td>
     </tr> 
 		
   </tbody>
